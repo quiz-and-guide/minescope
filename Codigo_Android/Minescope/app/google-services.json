@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1009982687094",
+    "project_id": "minescope-982ad",
+    "storage_bucket": "minescope-982ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009982687094:android:9036287cfb67acbc765c57",
+        "android_client_info": {
+          "package_name": "com.universitat_autonoma_de_barcelona_geology_mineralogy.minescope"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009982687094-nf13vheh65l404p6ki81ojo7psj7rqhm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa9M4-8J22WVsRFryLanzhkn6xLRNZRDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009982687094-nf13vheh65l404p6ki81ojo7psj7rqhm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

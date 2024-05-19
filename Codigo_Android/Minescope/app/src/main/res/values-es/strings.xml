@@ -1,0 +1,236 @@
+<resources>
+    <string name="app_name">Minescope</string>
+    <string name="app_label">Minescope</string>
+    <string name="search_hint">Buscar mineral</string>
+    <string name="settings">Ajustes</string>
+    <string name="mineral_not_found">Mineral no encontrado</string>
+    <string name="transparentes">Transparentes</string>
+    <string name="opacos">Opacos</string>
+    <string name="filtro">Filtro</string>
+
+    <string name="theme">TEMA</string>
+    <string name="darck">Noche</string>
+    <string name="light">Día</string>
+    <string name="text">texto</string>
+    <string name="images">IMÁGENES</string>
+    <string name="downloadAllPhone">DESCARGAR TODAS LAS IMÁGENES(220MB)</string>
+    <string name="downloadAllTablet7">DESCARGAR TODAS LAS IMÁGENES(330MB)</string>
+    <string name="downloadAllTablet10">DESCARGAR TODAS LAS IMÁGENES(440MB)</string>
+    <string name="textSize">TAMAÑO DE LETRA</string>
+    <string name="language">IDIOMA</string>
+    <string name="change_lang">Cambiar</string>
+    <string-array name="array_language">
+        <item>Inglés</item>
+        <item>Español</item>
+        <item>Catalán</item>
+    </string-array>
+    <string name="rate">Valorar la app</string>
+
+    <string name="lpna">LPNA</string>
+    <string name="lpa">LPA</string>
+
+    <string name="formula">Fórmula</string>
+    <string name="shape">Forma</string>
+    <string name="relief">Relieve</string>
+    <string name="color">Colores</string>
+    <string name="pleochroism">Pleocroismo</string>
+    <string name="cleavage">Exfoliación</string>
+    <string name="alteration">Alteración</string>
+    <string name="interferencecolor">Colores de interferencia</string>
+    <string name="extinction">Extinción</string>
+    <string name="twinning">Maclado</string>
+    <string name="zonation">Zonación</string>
+    <string name="interferencefigure">Figura de interferencia</string>
+    <string name="opticalsign">Signo óptico</string>
+    <string name="abundance">Abundancia</string>
+    <string name="others">Otros</string>
+    <string name="viewMicroscope">Ver en microscopio</string>
+
+    <string name="polishingcleavage">Exfoliación al pulido</string>
+    <string name="reflectance">Reflectancia</string>
+    <string name="polishinghardness">Resistencia al pulido</string>
+    <string name="anisotropism">Anisotropía</string>
+    <string name="internalreflections">Reflexiones internas</string>
+    <string name="associatedminerals">Minerales asociados</string>
+    <string name="morphology">Morfología</string>
+
+    <string name="downloadThinSectionTransparentsPhone">DESCARGAR LÁMINA DELGADA (5MB)</string>
+    <string name="downloadThinSectionTransparentsTablet7">DESCARGAR LÁMINA DELGADA (7.5MB)</string>
+    <string name="downloadThinSectionTransparentsTablet10">DESCARGAR LÁMINA DELGADA (10MB)</string>
+    <string name="downloadThinSectionOpaquesPhone">DESCARGAR LÁMINA DELGADA (2MB)</string>
+    <string name="downloadThinSectionOpaquesTablet7">DESCARGAR LÁMINA DELGADA (3MB)</string>
+    <string name="downloadThinSectionOpaquesTablet10">DESCARGAR LÁMINA DELGADA (4MB)</string>
+    <string name="problemDownload">Hubo un problema al descargar las imágenes. Inténtalo más tarde.</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancelar</string>
+    <string name="download">Descargar lámina delgada</string>
+    <string name="noConnection">No hay conexión a internet.</string>
+    <string name="close">Cerrar</string>
+
+    <string name="mineral_match">COINCIDENCIA MINERAL</string>
+    <string name="diaphaneity">Diafanidad</string>
+    <string-array name="array_diaphaneity">
+        <item>Transparente</item>
+        <item>Opaco</item>
+    </string-array>
+    <string-array name="array_relief">
+        <item>Todos</item>
+        <item>Bajo</item>
+        <item>Medio</item>
+        <item>Alto</item>
+    </string-array>
+    <string-array name="array_color">
+        <item>Todos</item>
+        <item>Incoloro</item>
+        <item>Amarillo</item>
+        <item>Rosa</item>
+        <item>Azul</item>
+        <item>Verde</item>
+        <item>Marrón</item>
+    </string-array>
+    <string-array name="array_pleochroism">
+        <item>Todos</item>
+        <item>Sin</item>
+        <item>Débil</item>
+        <item>Fuerte</item>
+    </string-array>
+    <string-array name="array_cleavage">
+        <item>Todos</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3 o más</item>
+    </string-array>
+    <string-array name="array_angle">
+        <item>Todos</item>
+        <item>Recto</item>
+        <item>Agudo</item>
+        <item>No observable</item>
+    </string-array>
+    <string-array name="array_interference">
+        <item>Todos</item>
+        <item>Isótropo</item>
+        <item>1º</item>
+        <item>2º</item>
+        <item>3º</item>
+        <item>4º</item>
+        <item>Anómalos</item>
+        <item>Enmascarados</item>
+    </string-array>
+    <string-array name="array_extinction">
+        <item>Todos</item>
+        <item>Total</item>
+        <item>Recta</item>
+        <item>Oblicua</item>
+        <item>Ondulada</item>
+    </string-array>
+    <string-array name="array_twinning">
+        <item>Todos</item>
+        <item>Sin</item>
+        <item>Simple</item>
+        <item>Polisintética</item>
+        <item>En parrilla</item>
+        <item>Cíclica</item>
+    </string-array>
+    <string-array name="array_interference_figure">
+        <item>Todos</item>
+        <item>Uniaxial</item>
+        <item>Biaxial</item>
+    </string-array>
+    <string-array name="array_optical_sign">
+        <item>Todos</item>
+        <item>Positivo</item>
+        <item>Negativo</item>
+    </string-array>
+    <string-array name="array_none">
+        <item>---</item>
+    </string-array>
+    <string-array name="array_color_opaques">
+        <item>Todos</item>
+        <item>Blanco</item>
+        <item>Amarillo</item>
+        <item>Rosado</item>
+        <item>Azul</item>
+        <item>Verde</item>
+        <item>Marrón</item>
+        <item>Gris</item>
+    </string-array>
+    <string-array name="array_reflectance">
+        <item>Todos</item>
+        <item>Baja</item>
+        <item>Media</item>
+        <item>Alta</item>
+        <item>Muy alta</item>
+    </string-array>
+    <string-array name="array_pleochroism_opaques">
+        <item>Todos</item>
+        <item>No presenta o débil</item>
+        <item>Fuerte</item>
+    </string-array>
+    <string-array name="array_polishing_hardness">
+        <item>Todos</item>
+        <item>Baja</item>
+        <item>Mediana</item>
+        <item>Alta</item>
+    </string-array>
+    <string-array name="array_anisotropism">
+        <item>Todos</item>
+        <item>Isótropo</item>
+        <item>Débilmente anisótropo</item>
+        <item>Fuertemente anisótropo</item>
+    </string-array>
+    <string-array name="array_interference_colors">
+        <item>Todos</item>
+        <item>Blanco</item>
+        <item>Azul</item>
+        <item>Amarillo</item>
+        <item>Rosado</item>
+        <item>Morado</item>
+        <item>Verde</item>
+        <item>Marrón</item>
+        <item>Gris</item>
+        <item>Enmascarados por las reflexiones internas</item>
+        <item>Sin</item>
+    </string-array>
+    <string-array name="array_internal_reflections">
+        <item>Todos</item>
+        <item>Sí</item>
+        <item>No</item>
+    </string-array>
+
+    <string name="positive">POSITIVO</string>
+    <string name="negative">NEGATIVO</string>
+    <string name="uniaxial">UNIAXIAL</string>
+    <string name="biaxial">BIAXIAL</string>
+
+    <string name="number_of_cleavage_directions">Direcciones de exfoliación</string>
+    <string name="angle_of_cleavage">Ángulo de exfoliación</string>
+    <string name="question">\?</string>
+
+    <string name="credits">Créditos</string>
+    <string name="contact">Contacto</string>
+    <string name="privacy_policy">Política de privacidad</string>
+    <string name="share">Compartir</string>
+    <string name="warning">WARNING. Lleva más de una hora descargar todas las imágenes.</string>
+    <string name="launch">Quiero iniciar la descarga.</string>
+    <string name="cancelDownload">Cancelar proceso. Tal vez luego.</string>
+    <string name="serverOut">El servidor no está disponible. Inténtalo más tarde.</string>
+
+    <string name="minescope">MINESCOPE</string>
+    <string name="authors">AUTORES</string>
+    <string name="merce1">Maria Mercè Corbella Cordomi</string>
+    <string name="merce2">Coordinadora del proyecto</string>
+    <string name="merce3">Profesora de mineralogía, Universidad Autónoma de Barcelona</string>
+    <string name="miquel1">Miquel Roquet Peña</string>
+    <string name="miquel2">Trabajo fin de grado</string>
+    <string name="miquel3">Graduado en geología, Universidad Autónoma de Barcelona</string>
+    <string name="raquel1">Raquel Arasanz Pujol</string>
+    <string name="raquel2">Trabajo fin de grado</string>
+    <string name="raquel3">Graduada en geología, Universidad Autónoma de Barcelona</string>
+    <string name="manuel1">Manuel Ignacio Muro Sabater</string>
+    <string name="manuel2">Desarrollador de la app</string>
+    <string name="manuel3">Graduado en geología, Universidad del País Vasco</string>
+    <string name="manuel4">Cuenta desarrollador Android</string>
+    <string name="manuel5">Facebook</string>
+
+</resources>

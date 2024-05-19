@@ -1,0 +1,237 @@
+<resources>
+    <string name="app_name">Minescope</string>
+    <string name="app_label">Minescope</string>
+    <string name="search_hint">Buscar mineral</string>
+    <string name="settings">Configuració</string>
+    <string name="mineral_not_found">Mineral no trobat</string>
+    <string name="transparentes">Transparents</string>
+    <string name="opacos">Opacs</string>
+    <string name="filtro">Filtre</string>
+
+    <string name="theme">TEMA</string>
+    <string name="darck">Nit</string>
+    <string name="light">Dia</string>
+    <string name="text">text</string>
+    <string name="images">IMATGES</string>
+    <string name="downloadAllPhone">DESCARREGAR TOTES LAS IMATGES(220MB)</string>
+    <string name="downloadAllTablet7">DESCARREGAR TOTES LAS IMATGES(330MB)</string>
+    <string name="downloadAllTablet10">DESCARREGAR TOTES LAS IMATGES(440MB)</string>
+    <string name="textSize">MIDA DE LLETRA</string>
+    <string name="language">IDIOMA</string>
+    <string name="change_lang">Canviar</string>
+    <string-array name="array_language">
+        <item>Anglès</item>
+        <item>Espanyol</item>
+        <item>Català</item>
+    </string-array>
+    <string name="rate">Rate the app</string>
+
+    <string name="lpna">LPNA</string>
+    <string name="lpa">LPA</string>
+
+    <string name="formula">Fórmula</string>
+    <string name="shape">Forma</string>
+    <string name="relief">Relleu</string>
+    <string name="color">Colors</string>
+    <string name="pleochroism">Pleocroisme</string>
+    <string name="cleavage">Exfoliació</string>
+    <string name="alteration">Alteració</string>
+    <string name="interferencecolor">Colors d\'interferència</string>
+    <string name="extinction">Extinció</string>
+    <string name="twinning">Maclat</string>
+    <string name="zonation">Zonació</string>
+    <string name="interferencefigure">Figura d\'interferència</string>
+    <string name="opticalsign">Signe òptic</string>
+    <string name="abundance">Abundància</string>
+    <string name="others">Altres</string>
+    <string name="viewMicroscope">Veure al microscopi</string>
+
+    <string name="polishingcleavage">Exfoliació al polit</string>
+    <string name="reflectance">Reflectància</string>
+    <string name="polishinghardness">Resistència al polit</string>
+    <string name="anisotropism">Anisotropia</string>
+    <string name="internalreflections">Reflexiones internes</string>
+    <string name="associatedminerals">Minerals associats</string>
+    <string name="morphology">Morfologia</string>
+
+    <string name="downloadThinSectionTransparentsPhone">DESCARREGAR LÀMINA PRIMA (5MB)</string>
+    <string name="downloadThinSectionTransparentsTablet7">DESCARREGAR LÀMINA PRIMA (7.5MB)</string>
+    <string name="downloadThinSectionTransparentsTablet10">DESCARREGAR LÀMINA PRIMA (10MB)</string>
+    <string name="downloadThinSectionOpaquesPhone">DESCARREGAR LÀMINA PRIMA (2MB)</string>
+    <string name="downloadThinSectionOpaquesTablet7">DESCARREGAR LÀMINA PRIMA (3MB)</string>
+    <string name="downloadThinSectionOpaquesTablet10">DESCARREGAR LÀMINA PRIMA (4MB)</string>
+    <string name="problemDownload">Hi ha hagut un problema en descarregar les imatges. Intenta-ho més tard.</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancelar</string>
+    <string name="download">Descarregar làmina prima</string>
+    <string name="noConnection">No hi ha connexió a internet.</string>
+    <string name="close">Tancar</string>
+
+    <string name="mineral_match">COINCIDÈNCIA MINERAL</string>
+    <string name="diaphaneity">Diafanitat</string>
+    <string-array name="array_diaphaneity">
+        <item>Transparent</item>
+        <item>Opac</item>
+    </string-array>
+    <string-array name="array_relief">
+        <item>Tots</item>
+        <item>Baix</item>
+        <item>Mig</item>
+        <item>Alt</item>
+    </string-array>
+    <string-array name="array_color">
+        <item>Tots</item>
+        <item>Incolor</item>
+        <item>Grocs</item>
+        <item>Rosats</item>
+        <item>Blaus</item>
+        <item>Verds</item>
+        <item>Marrons</item>
+    </string-array>
+    <string-array name="array_pleochroism">
+        <item>Tots</item>
+        <item>Sense</item>
+        <item>Dèbil</item>
+        <item>Fort</item>
+    </string-array>
+    <string-array name="array_cleavage">
+        <item>Tots</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3 o més</item>
+    </string-array>
+    <string-array name="array_angle">
+        <item>Tots</item>
+        <item>Recte</item>
+        <item>Agut</item>
+        <item>No observable</item>
+    </string-array>
+    <string-array name="array_interference">
+        <item>Tots</item>
+        <item>Isòtrop</item>
+        <item>1r</item>
+        <item>2n</item>
+        <item>3r</item>
+        <item>4t</item>
+        <item>Anòmals</item>
+        <item>Emmascarats</item>
+    </string-array>
+    <string-array name="array_extinction">
+        <item>Tots</item>
+        <item>Total</item>
+        <item>Recta</item>
+        <item>Obliqua</item>
+        <item>Ondulant</item>
+    </string-array>
+    <string-array name="array_twinning">
+        <item>Tots</item>
+        <item>Sense</item>
+        <item>Simple</item>
+        <item>Polisintètic</item>
+        <item>Graella</item>
+        <item>Cíclic</item>
+    </string-array>
+    <string-array name="array_interference_figure">
+        <item>Tots</item>
+        <item>Uniaxial</item>
+        <item>Biaxial</item>
+    </string-array>
+    <string-array name="array_optical_sign">
+        <item>Tots</item>
+        <item>Positiu</item>
+        <item>Negatiu</item>
+    </string-array>
+    <string-array name="array_none">
+        <item>---</item>
+    </string-array>
+    <string-array name="array_color_opaques">
+        <item>Tots</item>
+        <item>Blancs</item>
+        <item>Grocs</item>
+        <item>Rosats</item>
+        <item>Blaus</item>
+        <item>Verds</item>
+        <item>Marrons</item>
+        <item>Grisos</item>
+    </string-array>
+    <string-array name="array_reflectance">
+        <item>Tots</item>
+        <item>Baixa</item>
+        <item>Mitja</item>
+        <item>Alta</item>
+        <item>Molt Alta</item>
+    </string-array>
+    <string-array name="array_pleochroism_opaques">
+        <item>Tots</item>
+        <item>No en presenta o dèbil</item>
+        <item>Fort</item>
+    </string-array>
+    <string-array name="array_polishing_hardness">
+        <item>Tots</item>
+        <item>Baixa</item>
+        <item>Mitja</item>
+        <item>Alta</item>
+    </string-array>
+    <string-array name="array_anisotropism">
+        <item>Tots</item>
+        <item>Isòtrop</item>
+        <item>Debilment Anisòtrop</item>
+        <item>Fortament Anisòtrop</item>
+    </string-array>
+    <string-array name="array_interference_colors">
+        <item>Tots</item>
+        <item>Blancs</item>
+        <item>Grocs</item>
+        <item>Rosats</item>
+        <item>Liles</item>
+        <item>Blaus</item>
+        <item>Verds</item>
+        <item>Marrons</item>
+        <item>Grisos</item>
+        <item>Emmascarats per les reflexions internes</item>
+        <item>Sense</item>
+    </string-array>
+    <string-array name="array_internal_reflections">
+        <item>Tots</item>
+        <item>Si</item>
+        <item>No</item>
+    </string-array>
+
+    <string name="positive">POSITIU</string>
+    <string name="negative">NEGATIU</string>
+    <string name="uniaxial">UNIAXIAL</string>
+    <string name="biaxial">BIAXIAL</string>
+
+
+    <string name="number_of_cleavage_directions">Direccions d\'exfoliació</string>
+    <string name="angle_of_cleavage">Angle d\'exfoliació</string>
+    <string name="question">\?</string>
+
+    <string name="credits">Crèdits</string>
+    <string name="contact">Contacte</string>
+    <string name="privacy_policy">Política de privacitat</string>
+    <string name="share">Compartir</string>
+    <string name="warning">WARNING. Tarda més d\'una hora per descarregar totes les imatges.</string>
+    <string name="launch">Vull iniciar la descàrrega.</string>
+    <string name="cancelDownload">Cancel·lar procés. Potser després.</string>
+    <string name="serverOut">El servidor no està disponible. Intenta-ho més tard.</string>
+
+    <string name="minescope">MINESCOPE</string>
+    <string name="authors">AUTORS</string>
+    <string name="merce1">Maria Mercè Corbella Cordomi</string>
+    <string name="merce2">Coordinadora del projecte</string>
+    <string name="merce3">Professora de mineralogia, Universitat Autònoma de Barcelona</string>
+    <string name="miquel1">Miquel Roquet Peña</string>
+    <string name="miquel2">Treball fi de grau</string>
+    <string name="miquel3">Graduat en geologia, Universitat Autònoma de Barcelona</string>
+    <string name="raquel1">Raquel Arasanz Pujol</string>
+    <string name="raquel2">Treball fi de grau</string>
+    <string name="raquel3">Graduada en geologia, Universitat Autònoma de Barcelona</string>
+    <string name="manuel1">Manuel Ignacio Muro Sabater</string>
+    <string name="manuel2">Desenvolupador de l\'app</string>
+    <string name="manuel3">Graduat en geologia, Universidad del País Vasco</string>
+    <string name="manuel4">Compte desenvolupador Android</string>
+    <string name="manuel5">Facebook</string>
+
+</resources>
